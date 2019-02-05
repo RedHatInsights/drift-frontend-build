@@ -1,6 +1,6 @@
 {
   "app_name": "drift",
-  "src_hash": "08ec73fd82b9f540de7f1be3159594b4a323c5a2",
+  "src_hash": "f2e0b9f80131c0b1054ca9db8baa573bf08e7bd4",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -48,19 +48,19 @@
       "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.1.2.tgz"
     },
     "@patternfly/patternfly-next": {
-      "version": "1.0.41",
-      "from": "@patternfly/patternfly-next@1.0.41",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.41.tgz"
+      "version": "1.0.175",
+      "from": "@patternfly/patternfly-next@1.0.175",
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.175.tgz"
     },
     "@patternfly/react-core": {
-      "version": "1.30.0",
-      "from": "@patternfly/react-core@1.30.0",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.30.0.tgz"
+      "version": "1.51.6",
+      "from": "@patternfly/react-core@1.51.6",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.51.6.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.11.0",
-      "from": "@red-hat-insights/insights-frontend-components@3.11.0",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.11.0.tgz"
+      "version": "3.33.50",
+      "from": "@red-hat-insights/insights-frontend-components@3.33.50",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.50.tgz"
     },
     "axios": {
       "version": "0.18.0",
@@ -346,7 +346,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "61",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/489128894"
+    "build_number": "62",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/489251119"
   }
 }
