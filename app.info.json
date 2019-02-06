@@ -1,6 +1,6 @@
 {
   "app_name": "drift",
-  "src_hash": "44223f832337bc9f30aea3fa851bdea516187a08",
+  "src_hash": "c705bbb91b3ce7c3031f94e9a869c4ecb800dda7",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -222,6 +222,11 @@
       "from": "moment@2.22.2",
       "resolved": "https://registry.npmjs.org/moment/-/moment-2.22.2.tgz"
     },
+    "moxios": {
+      "version": "0.4.0",
+      "from": "moxios@0.4.0",
+      "resolved": "https://registry.npmjs.org/moxios/-/moxios-0.4.0.tgz"
+    },
     "node-sass": {
       "version": "4.9.3",
       "from": "node-sass@4.9.3",
@@ -266,6 +271,11 @@
       "version": "3.0.6",
       "from": "redux-logger@3.0.6",
       "resolved": "https://registry.npmjs.org/redux-logger/-/redux-logger-3.0.6.tgz"
+    },
+    "redux-mock-store": {
+      "version": "1.5.3",
+      "from": "redux-mock-store@1.5.3",
+      "resolved": "https://registry.npmjs.org/redux-mock-store/-/redux-mock-store-1.5.3.tgz"
     },
     "redux-promise-middleware": {
       "version": "5.1.1",
@@ -346,7 +356,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "73",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/489307405"
+    "build_number": "74",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/489343026"
   }
 }
