@@ -1,6 +1,6 @@
 {
   "app_name": "drift",
-  "src_hash": "cda98cbb785904432d39f272241f9409af877ff3",
+  "src_hash": "fc2dbce8643154fd3e8cb450411fa0d3c629d0ce",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -63,9 +63,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.51.6.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.33.50",
-      "from": "@red-hat-insights/insights-frontend-components@3.33.50",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.50.tgz"
+      "version": "3.34.4",
+      "from": "@red-hat-insights/insights-frontend-components@3.34.4",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.34.4.tgz"
     },
     "axios": {
       "version": "0.18.0",
@@ -361,7 +361,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "113",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/492967945"
+    "build_number": "118",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/493808149"
   }
 }
