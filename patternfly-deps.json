@@ -13,9 +13,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.7.5.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.85.1",
+      "version": "3.86.0",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.85.1.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.86.0.tgz"
     },
     "@patternfly/react-icons": {
       "version": "3.10.16",
