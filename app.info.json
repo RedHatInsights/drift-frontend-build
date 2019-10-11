@@ -1,11 +1,11 @@
 {
   "app_name": "drift",
-  "src_hash": "67b04db477000af24b280ce8eb2c3d8aade2c6af",
+  "src_hash": "e42c7eedc20221f0e740fba8f930a5bbb618494a",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "792",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/596612862"
+    "build_number": "796",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/drift-frontend/builds/596678435"
   }
 }
