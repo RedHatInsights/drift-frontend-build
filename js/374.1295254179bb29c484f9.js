@@ -1,2 +1,0 @@
-(self.webpackChunkdrift_frontend=self.webpackChunkdrift_frontend||[]).push([[374],{41374:(e,r,t)=>{"use strict";t.r(r),t.d(r,{default:()=>p});var n=t(25558),o=t.n(n),a=t(45697),l=t.n(a),s=t(47194),c=t(70983),u=t(82523),d=t(26475),f=t(47109),i=function(e){var r=e.logger;return o().createElement(c.Provider,{store:(0,u.S1)(r).getStore()},o().createElement(s.BrowserRouter,{basename:(0,f.Z)(window.location.pathname)},o().createElement(d.Z,null)))};i.propTypes={logger:l().any};const p=i}}]);
-//# sourceMappingURL=374.1295254179bb29c484f9.js.map
