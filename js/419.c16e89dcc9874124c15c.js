@@ -1,2 +1,2 @@
 (self.webpackChunkdrift_frontend=self.webpackChunkdrift_frontend||[]).push([[419],{14665:(t,e,n)=>{"use strict";function r(t,e){return(r=Object.setPrototypeOf||function(t,e){return t.__proto__=e,t})(t,e)}n.d(e,{Z:()=>r})}}]);
-//# sourceMappingURL=../sourcemaps/419.12fd07489ad320b418b7.js.map
+//# sourceMappingURL=../sourcemaps/419.aa838ac53a9af42aee8c.js.map
