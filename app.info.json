@@ -1,12 +1,12 @@
 {
   "app_name": "drift",
-  "src_hash": "978bfe1ccb0d2fe2d214f7533124d4780560d9bd",
+  "src_hash": "a6c3e56f345f296341d03e1d316c3ded924d1cfc",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.135.2","@patternfly/react-core@4.157.3","@patternfly/react-icons@4.11.17","@patternfly/react-table@4.30.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "2144",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/drift-frontend/builds/241121578"
+    "build_number": "2147",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/drift-frontend/builds/241207279"
   }
 }
