@@ -1,10 +1,11 @@
 {
     "drift": {
         "entry": [
-            "/beta/apps/drift/drift.420b3cda54170633c7ec.js"
+            "/beta/apps/drift/drift.1651785194542.2dad1078bde77b51611e.js"
         ],
         "modules": [
-            "/beta/apps/drift/js/412.ae3099bea88de4caa988.js"
+            "/beta/apps/drift/js/684.1651785194455.2dad1078bde77b51611e.js",
+            "/beta/apps/drift/css/684.fc526df9467d2f5e9065.css"
         ]
     }
 }

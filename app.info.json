@@ -1,13 +1,14 @@
 {
   "app_name": "drift",
-  "src_hash": "d87d5824017214181044304f158cbfc9d774b9e0",
+  "node_version": "unknown",
+  "src_hash": "90d833de625b61cc17d8ebce4d968cb3ba338a61",
   "src_tag": "",
-  "src_branch": "prod",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.135.2","@patternfly/react-core@4.157.3","@patternfly/react-icons@4.11.17","@patternfly/react-table@4.30.3"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.4.2","@redhat-cloud-services/frontend-components-notifications@3.2.4","@redhat-cloud-services/frontend-components-utilities@3.2.4"],
+  "src_branch": "prod-beta",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.171.1","@patternfly/react-core@4.192.15","@patternfly/react-icons@4.43.15","@patternfly/react-table@4.61.15"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.8","@redhat-cloud-services/frontend-components@3.7.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "2231",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/drift-frontend/builds/246419721"
+    "build_number": "2302",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/drift-frontend/builds/250289466"
   }
 }
