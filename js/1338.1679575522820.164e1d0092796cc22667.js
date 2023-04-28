@@ -1,1 +1,0 @@
-(self.webpackChunkdrift_frontend=self.webpackChunkdrift_frontend||[]).push([[1338],{71338:()=>{}}]);
