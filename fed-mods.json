@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/apps/drift/",
   "loadScripts": [
-    "drift.848481a7bdd16d4df293.js"
+    "drift.02894a97a6ce6afcd85b.js"
   ],
-  "buildHash": "848481a7bdd16d4df293f7fde18072ec"
+  "buildHash": "02894a97a6ce6afcd85b10f41900f37b"
 }
