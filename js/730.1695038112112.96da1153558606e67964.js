@@ -1,1 +1,0 @@
-(self.webpackChunkdrift_frontend=self.webpackChunkdrift_frontend||[]).push([[730],{22868:()=>{},14777:()=>{},99830:()=>{},70209:()=>{},87414:()=>{}}]);

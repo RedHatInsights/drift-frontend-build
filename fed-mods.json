@@ -1,11 +1,11 @@
 {
-    "drift": {
-        "entry": [
-            "/apps/drift/drift.1695038112205.96da1153558606e67964.js"
-        ],
-        "modules": [
-            "/apps/drift/js/684.1695038112112.96da1153558606e67964.js",
-            "/apps/drift/css/684.20757c373c35e3a3c0f1.css"
-        ]
-    }
+  "name": "drift",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/drift/",
+  "loadScripts": [
+    "drift.7ae04483a70e2b565104.js"
+  ],
+  "buildHash": "7ae04483a70e2b565104e74ebfcc588f"
 }
