@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/apps/drift/",
+  "baseURL": "/beta/apps/drift/",
   "loadScripts": [
-    "drift.d5a8b903b4fbab3e17df.js"
+    "drift.7f78834ad07f5532d2c5.js"
   ],
-  "buildHash": "d5a8b903b4fbab3e17dfff8710ff279f"
+  "buildHash": "7f78834ad07f5532d2c5f126752db51e"
 }
